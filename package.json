@@ -32,7 +32,7 @@
     "@angular/platform-browser-dynamic": "~8.2.13",
     "@angular/router": "~8.2.13",
     "@nestjs/common": "^6.7.2",
-    "@nestjs/core": "^6.7.2",
+    "@nestjs/core": "^9.0.5",
     "@nestjs/platform-express": "^6.7.2",
     "@nestjs/swagger": "^3.1.0",
     "reflect-metadata": "^0.1.13",
